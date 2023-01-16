@@ -9,7 +9,7 @@ I love to get my hands dirty with code in order to create whatever comes to my m
 ## 📝 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura96671&layout=compact&theme=dracula)](https://github.com/laura96671/github-readme-stats)
 
-## Skills
+## 💼 Skills
 [![General badge](https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=fff&style=flat>)](https://shields.io/)
 [![General badge](https://img.shields.io/badge/Code-Django-informational?logo=django&logoColor=fff&style=flat>)](https://shields.io/)
 [![General badge](https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&logoColor=fff&style=flat>)](https://shields.io/)
@@ -24,14 +24,16 @@ I love to get my hands dirty with code in order to create whatever comes to my m
 [![General badge](https://img.shields.io/badge/Code-MySQL-informational?logo=mysql&logoColor=fff&style=flat>)](https://shields.io/)
 [![General badge](https://img.shields.io/badge/Code-PostgreSQL-informational?logo=postgresql&logoColor=fff&style=flat>)](https://shields.io/)
 
-Here are some ideas to get you started:
+<details>
+<summary>More Skills</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />[![General badge](https://img.shields.io/badge/Style-CSS-informational?logo=css&logoColor=fff&style=flat>)](https://shields.io/)
+[![General badge](https://img.shields.io/badge/Style-Bootstrap-informational?logo=bootstrap&logoColor=fff&style=flat>)](https://shields.io/)
+[![General badge](https://img.shields.io/badge/Style-Bulma-informational?logo=bulma&logoColor=fff&style=flat>)](https://shields.io/)
+  
+<br />[![General badge](https://img.shields.io/badge/Tools-Docker-informational?logo=docker&logoColor=fff&style=flat>)](https://shields.io/)
+[![General badge](https://img.shields.io/badge/Tools-AWS-informational?logo=aws&logoColor=fff&style=flat>)](https://shields.io/)
+[![General badge](https://img.shields.io/badge/Tools-GitHub-informational?logo=github&logoColor=fff&style=flat>)](https://shields.io/)
+[![General badge](https://img.shields.io/badge/Tools-GitLab-informational?logo=gitlab&logoColor=fff&style=flat>)](https://shields.io/)
+
+</details>
