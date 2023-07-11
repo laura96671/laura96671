@@ -3,7 +3,7 @@
 
 Hey there 👋
 
-I'm Laura, a self-starter in the tech industry and currently a Junior Full Stack Engineer.
+I'm Laura, a self-starter in the tech industry and currently a Data Engineer.
 I love to get my hands dirty with code in order to create whatever comes to my mind!
 
 ## 📝 GitHub Stats
